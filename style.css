@@ -85,7 +85,7 @@
 /* About Section */
 #About {
     padding: 60px 20px;
-    background-color: white;
+    background: url('main.jpg') no-repeat center center/cover;
 }
 
 #about-container {
